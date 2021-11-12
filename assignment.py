@@ -24,6 +24,7 @@ def fv(v_max, c, start, end):
 
 st.set_page_config(page_title="Hill Muscle Force Length and Velocity Relationship",page_icon="💪")
 st.markdown("# Assignment #3")
+st.video("video1407951363.mp4")
 
 st.markdown("### F-L")
 st.latex(r"""
